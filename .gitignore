@@ -1,0 +1,4 @@
+.idea/
+venv/
+__pycache__/
+packets_log.txt
